@@ -1,0 +1,12 @@
+its the art of using attacking mehtods to find vulnerabilities and report them to the person that hired them
+
+they can be interal red teams or external.
+
+red teaming means attackers, blue team means defenders, purple team means they collab to figure out what they learnt.
+
+pentesters need to sign documents on what they can and cant do when breaking into a system
+  this includes goals, such as getting in or stealing a particular file
+  
+pentesters need to documennt what they do, usuallly very specific.
+
+they can do things digitally or physically, depends on whats agreed upon.
