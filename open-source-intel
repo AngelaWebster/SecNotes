@@ -1,6 +1,16 @@
 open source intel (osint) is a source of info that gives info on vulnerabilities and exploits thats free.
+
 sources: media, government, internet, academic, organizations
+
 vulnerability databases
-  common vulnerabiltiy ane exploits (CVE) - comprehensive
-NIST
-CVE
+  common vulnerabiltiy ane exploits (CVE) - comprehensive and free
+  national vulnerability database (NVD) - government database for vulnerabilities. summary of cve
+  
+automated indicator sharing (AIS) - automates the process of moving info between organizations fast
+  theres a standard format for this info. this is structured threat informaiton eXpress (STIX)
+  to share this info, i need a trusted transport method. this is donen with trusted automated eXchange of indicator informaiton (TAXII)
+  
+theres public ad private info sharing centers. public is useful but can be hard to find. private pays a subscription, but its comprehensive. pulls from public sources
+
+dark web source is getting threate intel from the darkweb. like hacking groups and services. 
+
