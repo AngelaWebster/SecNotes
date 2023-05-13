@@ -10,3 +10,15 @@ pentesters need to sign documents on what they can and cant do when breaking int
 pentesters need to documennt what they do, usuallly very specific.
 
 they can do things digitally or physically, depends on whats agreed upon.
+
+usually follow the cyber kill chain:
+1. reconnaissance - find info on target. looking for weak point
+  can look through social media, scanning their network for public ips and open ports, as well as what equipment they have
+2. weaponization - crafting exploit to work on vulnerability found. the goal is to also make somehting that can persist or make it easier to access victim
+3. delivery - delivers malicious payload to victim.
+  email, web, usb, etc.
+4.exploitation - exploit vulnerability to execute malicious code
+5.installation - installing the malware
+6.command and control (C2) - established a remote connection with attacker's C2 server so they have control of victim's machine
+  usually has a backdoor involved or gives credentials
+7.actions on objectivess - with access to the victim, they can achieve their goal. whatever it may be.
