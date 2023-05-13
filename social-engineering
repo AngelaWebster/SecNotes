@@ -1,0 +1,26 @@
+manipulating victim into doing something for the attacker. can be targetted or broad
+
+phishing attacks:
+  depends if its targetted or broad
+    individual: attackers look up public info of target. social media or linked in is a good example
+    crafts email, text, or whatever communication using what they researched. makes it more appealing to victim
+    usually attaches malicious code into it. document, link, etc.
+  broad:
+    makes a generalized email to send to a lot of ppl. usually made poorly, but one email is all it takes.
+  these messages denote some importance to make the victim fall for it.
+  
+  types of phishing:
+  email phhishing - broad attack that hits a lot of ppl but not specialized to a person
+  spear phishing - targetted phishing thats more specific
+  whaling - phishing that targets high executives in a company
+  vishing - phishing that happens over VoIP
+  smishing - phishing via sms text messages
+  
+  social engineering also includes physical characteristics:
+    convincing someone to borrow phone
+    general manipulation and gaslighting
+    tailgaiting can be a form of social engineering. using norms of holding the door open
+  defense:
+    awareness of the threat is a big one. teach ppl how to look out for phishing emails and attempts to manipulate them.
+    reporting phishing attempts as spam. 
+    possibly track who sent the phishing scam
