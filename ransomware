@@ -1,7 +1,19 @@
 dangerous malware that typically encrypts systems unless victim pays attacker. usually bitcoin
+once this happens, its impossible for someonne to get their stuff back. 
 
 the encryption is usually on the disk itself.
 
 attakcs:
   the main thing is how it can get in and what forms it takes
+  phishing that downloads and executes the malware
+  insider threat downloading / plugging it in
+defense:
+  preventive:
+    awareness of threat. training on not to click sus stuff
+    malware scanners if its already on the system
+    IDS/IPS if its traveling to the victim. will alert admin or discard traffic
+  backup:
+    if ransomware occurs, have a backup of the system thats compromised. make sure its one that doesnt have the malware.
+    dont let backups get infected or you're screwed.
+  
   
