@@ -1,0 +1,18 @@
+cyber sec doesnt apply to just networks. if someone breaks in physically and steals stuff, thats bad.
+
+attack:
+  walking into the server room
+  theft of property or data
+  harm to people or equipment
+  shoulder surfing
+  plugging in something to a system physically
+    keyloggers
+    malware / backdoor - could emit a signal
+    unauthorized wifi hotspot plugged in.
+defense:
+  vestibules - one door cant open while the other is open. prevents tailgaiting
+  locked doors
+  codes on doors or card scanners
+  cameras
+  guards
+  escorting visitors
