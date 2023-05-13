@@ -1,0 +1,31 @@
+definition: the theft or removal of data. can be technical or physical.
+attack: outsider or insider threats
+  outsider: 
+    phishing scam that works.
+      attacker gets a backdoor installed
+      could compromise work email and send stuff to them. see insider threats.
+      credentials can be stolen and attackers can try and escalate privileges
+  insider: 
+    email data to non-company email.
+      password protect a document, obfuscate by changing text color, just sending it, encrypting it
+    download to unsecure device
+    can download to secure device and upload to unsecure device
+    physically stealing documents
+  defense:
+    detective:
+      IDS - monitor network for sus traffic. amount of traffic sent, type of traffic (docs have metadata it looks for)
+      sends alerts to centralized logging system
+      siem detects and also puts traffic together to find patterns
+  preventive:
+    IPS - IDS but can prevent traffic from happening
+  firewall falls under both above:
+    NGFW is a robust tech that can do many things at once
+  physical:
+    locked doors
+    vestibules
+    guards
+    cameras
+  
+  
+https://www.fortinet.com/resources/cyberglossary/data-exfiltration#:~:text=A%20common%20data%20exfiltration%20definition,phones%2C%20through%20various%20cyberattack%20methods.
+https://www.microsoft.com/en-us/security/business/security-101/what-is-siem#:~:text=SIEM%20defined-,SIEM%20Defined,before%20they%20harm%20business%20operations.
